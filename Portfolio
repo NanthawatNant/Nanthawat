@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .container { width: 50%; margin: auto; padding: 20px; }
+        h1 { color: #007bff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ชื่อ-นามสกุล</h1>
+        <p><strong>ตำแหน่ง:</strong> Web Developer</p>
+        <p><strong>อีเมล:</strong> yourname@email.com</p>
+        <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourname">คลิกที่นี่</a></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/yourusername">คลิกที่นี่</a></p>
+    </div>
+</body>
+</html>
